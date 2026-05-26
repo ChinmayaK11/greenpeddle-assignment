@@ -1,6 +1,6 @@
 # GreenPeddle Intern Assignment
 
-This is my submission for the Product & Operations Intern pre-assessment at GreenPeddle.
+This is my submission for the Product & Operations Intern assessment at GreenPeddle.
 ---
 
 ## Task 1 - Product Feed Filter (JavaScript)
