@@ -42,25 +42,4 @@ I opened Amazon and tested the review filter feature. Found a UI bug where filte
 
 ---
 
-## Folder Structure
 
-greenpeddle-assignment/
-├── task1-api/
-│   └── processProductFeed.js
-├── task2-csv/
-│   ├── products.csv
-│   ├── cleanProducts.js
-│   └── cleaned_products.csv
-├── task3-sql/
-│   └── queries.sql
-├── task4-bugreport/
-│   ├── bug_report.md
-│   └── screenshot.png
-└── README.md
-
----
-
-Tech used
--JavaScript
--Node.js
--SQL
