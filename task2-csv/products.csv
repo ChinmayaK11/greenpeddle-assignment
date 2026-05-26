@@ -1,0 +1,6 @@
+name, price, category, stock,sustainability_tag
+" Bamboo Bottle ",350,drinkware,10,eco
+"Organic Cotton Bag",,bags,5,eco
+"Hemp Wallet",250,accessories,,eco
+"Recycled Pen ",0,stationery,20,
+"jute notebook",180,stationery,8,eco
